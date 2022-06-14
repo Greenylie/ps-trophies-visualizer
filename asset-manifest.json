@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ps-trophies-visualizer/static/css/main.441572c2.css",
+    "main.js": "/ps-trophies-visualizer/static/js/main.836607e8.js",
+    "static/js/787.3451a0cd.chunk.js": "/ps-trophies-visualizer/static/js/787.3451a0cd.chunk.js",
+    "static/media/playstation-logo.svg": "/ps-trophies-visualizer/static/media/playstation-logo.512f9569c45b97970f40dcff686e9d4c.svg",
+    "index.html": "/ps-trophies-visualizer/index.html",
+    "main.441572c2.css.map": "/ps-trophies-visualizer/static/css/main.441572c2.css.map",
+    "main.836607e8.js.map": "/ps-trophies-visualizer/static/js/main.836607e8.js.map",
+    "787.3451a0cd.chunk.js.map": "/ps-trophies-visualizer/static/js/787.3451a0cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441572c2.css",
+    "static/js/main.836607e8.js"
+  ]
+}
