@@ -1,3 +1,21 @@
+/* Useful*/
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Navbar */
+
+.logo-container, .input-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
 .App {
   text-align: center;
 }
